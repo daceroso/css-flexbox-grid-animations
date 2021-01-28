@@ -1,13 +1,13 @@
 {
-  "name": "trillo_app",
+  "name": "Nexter",
   "version": "1.0.0",
-  "description": "flexbox, Sass and Gulp",
+  "description": "CSS grid, Sass and Gulp",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "Flexbox",
+    "CSS grid",
     "Sass",
     "Gulp"
   ],
