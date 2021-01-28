@@ -1,4 +1,4 @@
-# Trillo App
+# Flexbox and CSS Grid Project
 
 ## Flex-box project
 
